@@ -1,0 +1,158 @@
+h1 {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+.newFont {
+  font-size: 80px;
+  font-weight: 900;
+}
+
+#title {
+  background-color: #ff4c68;
+}
+
+#contFluid {
+  padding-top: 100px;
+  padding-left: 180px;
+  padding-right: 180px;
+}
+
+#navbarSupportedContent {
+  padding-right: 300px;
+}
+
+.newB {
+  margin-top: 30px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 10px;
+  width: 130px;
+  height: 45px;
+  color: wheat;
+}
+
+#title {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+}
+
+#tindo {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 40px;
+  font-weight: medium;
+}
+
+.img1 {
+  transform: rotate(25deg);
+}
+
+.row {
+  padding-top: 100px;
+}
+
+.feature-col {
+  font-family: "Montserrat", sans-serif;
+}
+
+.feature-heading {
+  font-family: "Montserrat", sans-serif;
+  color: rgb(15, 15, 15);
+  font-weight: bold;
+}
+
+#features {
+  padding: 7% 15% 7% 15%;
+  text-align: center;
+  font-size: 20px;
+}
+
+.feature-para {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  color: gray;
+}
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ff4c68;
+  color: whitesmoke;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.carF {
+  font-weight: 800;
+  line-height: 1.5;
+  font-size: 35px;
+}
+
+.testImg {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ff4c68;
+  text-align: center;
+}
+
+.pressImg {
+  margin: 15px 25px 15px 25px;
+}
+
+.newA {
+  margin-top: 30px;
+  font-size: 10px;
+  width: 150px;
+  height: 45px;
+  color: wheat;
+}
+
+#pricing {
+  text-align: center;
+  font-weight: 600;
+  font-size: 25px;
+  padding: 100px;
+}
+
+#Price {
+  padding-top: 40px;
+}
+
+.plan {
+  font-size: 45px;
+  margin-top: 60px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.headingFont {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+.priceD {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 150px;
+}
+
+#ct{
+    color: whitesmoke;
+}
+
+
+#footer{
+    text-align: center;
+}
